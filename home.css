@@ -1,0 +1,109 @@
+#cabecalho {
+    padding:10px;
+    margin:-10px;
+    background-color:rgba(237, 237, 237, 0.527);
+    list-style:none;
+}
+
+.logo {
+    margin-left: 90px;
+}
+
+
+.h2 {
+
+    font-size: 13px;
+    position: absolute;
+    left: 1700px;
+    top: 0px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    padding-bottom: 30%;
+
+}
+
+h3 {
+
+    font-size: 1px;
+    position: absolute;
+    left: 1300px;
+    top: 90px;
+    color: darkolivegreen;
+    font-family: 'Allerta Stencil', sans-serif;
+}
+
+.h2 h3:hover h3:focus {
+
+    color: #0c86b6;
+    text-decoration: none;
+    font-family: 'Allerta Stencil', sans-serif;
+
+}
+
+
+
+h7 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    left: 700px;
+    top: 300;
+
+}
+
+h8 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 18px;
+    font-weight: light;
+    position: absolute;
+    left: 700px;
+    top: 340px;
+}
+
+h9 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    left: 900px;
+    top: 300px;
+
+}
+
+h10 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 18px;
+    font-weight: light;
+    position: absolute;
+    left: 900px;
+    top: 340px;
+}
+
+h11 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    left: 1100px;
+    top: 300px;
+
+}
+
+h12 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 18px;
+    font-weight: light;
+    position: absolute;
+    left: 1100px;
+    top: 340px;
+}
+
+projetos {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 34px;
+    font-weight: bold;
+    position: absolute;
+    left: 700px;
+    top: 550px;
+
+}
